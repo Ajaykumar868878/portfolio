@@ -1,18 +1,17 @@
-# 🚀 Navadeep's Portfolio
+# 🚀 Ajay Kumar's Portfolio
 
 <div align="center">
   <h2>✨ Modern Developer Portfolio</h2>
   <p>A stunning, responsive portfolio website showcasing my skills and projects</p>
   
-  [![Live Demo](https://img.shields.io/badge/Live_Demo-007BFF?style=for-the-badge&logo=render&logoColor=white)](https://navadeep-trcu.onrender.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/navadeep0508/portfolio)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ajaykumar868878/portfolio)
   [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 </div>
 
 ---
 
-## 🌟 **Live Preview**
-**🔗 [https://navadeep-trcu.onrender.com](https://navadeep-trcu.onrender.com)**
+## 🌟 **Repository**
+**🔗 [https://github.com/Ajaykumar868878/portfolio](https://github.com/Ajaykumar868878/portfolio)**
 
 ---
 
@@ -89,7 +88,7 @@ portfolio/
 
 1. **📥 Clone the repository**
    ```bash
-   git clone https://github.com/navadeep0508/portfolio.git
+   git clone https://github.com/Ajaykumar868878/portfolio.git
    cd portfolio
    ```
 
@@ -287,11 +286,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 <div align="center">
   
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navadeep0508@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/navadeep)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/navadeep0508)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ajaykumar868878)
   
-  **📧 navadeep0508@gmail.com**
+  **📧 ajaykumar868878@example.com**
 </div>
 
 ---
@@ -300,7 +297,6 @@ This project is open source and available under the [MIT License](LICENSE).
   <h3>🌟 Thank you for visiting! 🌟</h3>
   <p>Built with ❤️ using Flask, HTML, CSS, and JavaScript</p>
   
-  [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-007BFF?style=for-the-badge)](https://navadeep-trcu.onrender.com)
+  [![GitHub](https://img.shields.io/badge/🔗_GitHub-181717?style=for-the-badge)](https://github.com/Ajaykumar868878/portfolio)
 </div>
-#   p o r t f o l i o  
  
